@@ -1,2 +1,2 @@
 FROM busybox
-CMD ["sh", "uname -a"]
+CMD ["uname", "-a"]
