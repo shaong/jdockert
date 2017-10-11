@@ -1,2 +1,2 @@
 FROM busybox
-CMD ["sh", "echo 'Ran from docker'"]
+CMD ["sh", "echo \"Ran from docker\""]
